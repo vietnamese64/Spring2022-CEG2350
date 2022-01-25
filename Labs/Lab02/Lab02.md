@@ -1,11 +1,12 @@
 ## Lab 02
 
-- Name:
-- Email
+- Name: Long Nguyen
+- Email: nguyen.156@wrighgt.edu
+
 
 ## Part 2 Answers
 
-1. Add a file for tracking:
+1. Add a file for tracking: 
 2. Commit changes:
 3. Sync local commits with GitHub:
 
